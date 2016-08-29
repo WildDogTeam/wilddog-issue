@@ -8,6 +8,8 @@
 
 http://z.wilddog.com
 
-## gitter
 
-https://gitter.im/WildDogTeam/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link
+## 提问规则
+
+* 提问问题需要尽可能描述清楚，用标签标明平台和类型
+* 如果提交bug，最好有复现步骤或js-fiddle
