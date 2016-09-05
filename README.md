@@ -6,7 +6,7 @@
 
 ## 文档
 
-http://z.wilddog.com
+http://docs.wilddog.com
 
 
 ## 规则
